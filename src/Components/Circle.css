@@ -1,0 +1,11 @@
+.Circle{
+    height: 10em;
+    width: 10em;
+    border-radius: 50%;
+    /* background-color: burlywood; */
+    display: inline-block;
+    margin: 20px;
+}
+.invisible{
+    visibility: hidden;
+}
