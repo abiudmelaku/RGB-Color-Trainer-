@@ -1,1 +1,1 @@
-# RGB-Color-Trainer-
+# RGB-Color-Trainer
